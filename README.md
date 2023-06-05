@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full stack developer
 --------------------
 
-I've been learning to code for more than two years now. I've looking forward to get opportunities in MERN stack or Flutter as a developer.
+Highly skilled React developer with 3 years of experience in building responsive and interactive user interfaces. Passionate about creating efficient and scalable web and mobile applications using React, JavaScript, and related technologies. Seeking challenging opportunities to contribute to innovative projects and collaborate with cross-functional teams.
 
 * 🌍  I'm based in Mumbai, India
 * 🖥️  See my portfolio at [My portfolio](http://rohitludbe.vercel.app)
